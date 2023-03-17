@@ -25,9 +25,9 @@ const anmol = {
 };
 ```
 
-Building state-of-the-art, easy-to-use, user-friendly websites and applications is truly a passion of mine and I am confident I would be an excellent addition to your organization. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements. This has allowed me to stay ahead of the curve and deliver exceptional work to all of my employers, including those I've worked for on a project basis.
+### Building state-of-the-art, easy-to-use, user-friendly websites and applications is truly a passion of mine and I am confident I would be an excellent addition to your organization. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements. This has allowed me to stay ahead of the curve and deliver exceptional work to all of my employers, including those I've worked for on a project basis.
 
-During working on my latest projects my responsibilities included and I have been successful in :
+## During working on my latest projects my responsibilities included and I have been successful in :
 
 #### ▪️ Developed RESTful APIs using Laravel framework as well as integrate with third-party APIs especially through REST.
 #### ▪️ Read file from AWS S3 bucket, process raw data contents using NodeJS and store in PostgreSQL and MongoDB as required.
