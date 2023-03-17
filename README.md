@@ -25,9 +25,6 @@ const anmol = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-
 Building state-of-the-art, easy-to-use, user-friendly websites and applications is truly a passion of mine and I am confident I would be an excellent addition to your organization. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements. This has allowed me to stay ahead of the curve and deliver exceptional work to all of my employers, including those I've worked for on a project basis.
 
 During working on my latest projects my responsibilities included and I have been successful in :
@@ -71,5 +68,7 @@ During working on my latest projects my responsibilities included and I have bee
 #### ✦ Clear and efficient communication with international teams.
 
 
-📩Please do not hesitate to contact me if you are looking for high-quality work at a reasonable price.
-🤝 I look forward to getting an invitation to interview if you want that your work will be done in the best way.
+### 📩Please do not hesitate to contact me if you are looking for high-quality work at a reasonable price.
+### 🤝 I look forward to getting an invitation to interview if you want that your work will be done in the best way.
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
